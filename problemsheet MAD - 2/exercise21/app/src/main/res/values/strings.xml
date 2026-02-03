@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Visiting Card</string>
+    <string name="logo_desc">Company Logo</string>
+
+    <string name="company_name">Tech Solutions Inc.</string>
+    <string name="emp_name">John Doe</string>
+    <string name="job_title">Senior Android Developer</string>
+
+    <string name="phone">📞 +91 98765 43210</string>
+    <string name="address">📍 123, Silicon Valley, Tech Park, CA</string>
+    <string name="email">✉️ john.doe@techsolutions.com</string>
+    <string name="fax">📠 Fax: 044-12345678</string>
+    <string name="website">🌐 www.techsolutions.com</string>
+</resources>
