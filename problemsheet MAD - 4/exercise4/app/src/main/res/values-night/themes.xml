@@ -1,0 +1,9 @@
+<resources>
+<style name="Theme.Exercise4" parent="Theme.MaterialComponents.Light.DarkActionBar">
+    <item name="colorPrimary">#03A9F4</item>
+    <item name="colorPrimaryVariant">#0288D1</item>
+    <item name="colorOnPrimary">#FFFFFF</item>
+
+    <item name="colorError">#FF0000</item>
+</style>
+</resources>
